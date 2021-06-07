@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://seonmk12.github.io/seonmins_colab/sitemap.xml
